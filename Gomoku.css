@@ -1,0 +1,53 @@
+body {
+	text-align: center;
+}
+
+section {
+	display: flex;
+	justify-content: center;
+}
+	section #restart {
+		width: 2.5em;
+		height: 10em;
+	}
+		section #restart:hover {
+			box-shadow: -10px 10px 20px rgba(0, 0, 0, .3);
+		}
+
+	section canvas {
+		box-shadow: 0 10px 20px rgba(0, 0, 0, .8);
+		cursor: pointer;
+	}
+
+	section div {
+		display: flex;
+		flex-direction: column;
+	}
+		section div button {
+			width: 2em;
+			height: 4em;
+			margin-bottom: 1em;
+		}
+			section div button:hover {
+				box-shadow: 10px 10px 20px rgba(0, 0, 0, .3);
+			}
+
+
+
+/********** other **********/
+
+button {
+	font-size: 1.2em;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	transition: all .15s ease-in-out;
+	filter: opacity(.1);
+	background-color: rgba(255, 187, 0, .6);
+}
+	button:hover {
+		filter: opacity(1);
+	}
+	button:active {
+		box-shadow: none;
+	}

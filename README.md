@@ -9,8 +9,8 @@
   
 “五星连珠”美图鉴赏😄：  
   
-![image](https://github.com/HouNaoshao/HouNaoshao.github.io/blob/master/下棋截图.png)  
 ![image](https://github.com/HouNaoshao/HouNaoshao.github.io/blob/master/棋盘截图.png)  
+![image](https://github.com/HouNaoshao/HouNaoshao.github.io/blob/master/下棋截图.png)  
 ![image](https://github.com/HouNaoshao/HouNaoshao.github.io/blob/master/电脑胜利截图.png)  
 ![image](https://github.com/HouNaoshao/HouNaoshao.github.io/blob/master/按钮截图1.png)  
 ![image](https://github.com/HouNaoshao/HouNaoshao.github.io/blob/master/按钮截图2.png)  
